@@ -24,7 +24,7 @@ In this project I did Three Things:
 
 ## LINKS
 
-- [Code Refactor Link] Coming Soon!
+- [Hello World Link] Coming Soon!
 - [Github Repo Link](https://github.com/nicholasd-uci/myHelloWorld)
 
 - - -
