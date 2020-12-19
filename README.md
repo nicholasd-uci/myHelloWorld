@@ -19,7 +19,7 @@ In this project I did Three Things:
 ## Section 3
 ![footer](./photos/footer.png)
 
->This section I learnt how to bring in an image and edit the image.
+>This section we were taught how to bring in an image and edit the image to our liking.
 
 
 ## LINKS
