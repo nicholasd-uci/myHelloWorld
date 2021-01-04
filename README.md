@@ -24,8 +24,9 @@ In this project I did Three Things:
 
 ## LINKS
 
-- [Hello World Link] Coming Soon!
+- [Hello World Link]()
 - [Github Repo Link](https://github.com/nicholasd-uci/myHelloWorld)
+- [Nicholas Dallas GitHub](https://github.com/nicholasd-uci)
 
 - - -
 © 2020 NPRD, Nicholas Paul Ruiz Dallas
